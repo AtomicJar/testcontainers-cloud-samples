@@ -1,2 +1,2 @@
-# testcontainers-cloud-samples
-Repo to make public containing various example applications &amp; tests to show Testcontainers Cloud
+# Testcontainers Cloud samples
+This repository contains various example applications & tests to show Testcontainers Cloud. 

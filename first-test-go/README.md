@@ -1,7 +1,7 @@
 # First Test with Golang
 This is an example repository with a simple test for demonstrating [Testcontainers Cloud](https://testcontainers.cloud).
 
-Close the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/atomicjar/testcontainers-cloud-samples.git
 

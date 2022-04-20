@@ -12,7 +12,7 @@ import (
 func TestWithRedis(t *testing.T) {
 	ctx := context.Background()
 	req := testcontainers.ContainerRequest{
-		Image:        "redis:latest",
+		Image:        "redis:6.2.6-alpine",
 		ExposedPorts: []string{"6379/tcp"},
 		WaitingFor:   wait.ForLog("Ready to accept connections"),
 	}
